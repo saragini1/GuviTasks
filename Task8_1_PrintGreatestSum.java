@@ -1,12 +1,8 @@
-1. Write a java program that declares four integers a, b, c and d. Then write an if statement that checks whether
-the sum of a and b is greater than c and d.
-
 package GuviTask;
 
-public class Task8 {
+public class Task8_1_PrintGreatestSum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// code to add two integers and print the greatest sum using if condition
 
@@ -18,13 +14,10 @@ public class Task8 {
 		int Sum2 = (c + d);
 
 		if (Sum1 > Sum2)
-
 			System.out.println("Sum of a+b is greater than sum of c+d");
-
 		else {
 			System.out.println("Sum of c+d is greater than sum of a+b");
 		}
+
 	}
 }
-
----------------------------------------------------------------------------------------------------
