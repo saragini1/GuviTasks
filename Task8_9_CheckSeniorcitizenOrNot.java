@@ -1,4 +1,4 @@
-package GuviTask;
+package GuviJavaTask;
 
 public class Task8_9_CheckSeniorcitizenOrNot {
 

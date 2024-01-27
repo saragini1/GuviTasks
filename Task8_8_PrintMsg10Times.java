@@ -1,4 +1,4 @@
-package GuviTask;
+package GuviJavaTask;
 
 public class Task8_8_PrintMsg10Times {
 
